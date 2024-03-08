@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yuutibe-clone/static/css/main.2c38c8e1.css",
+    "main.js": "/yuutibe-clone/static/js/main.880128d3.js",
+    "static/js/787.a535fdd6.chunk.js": "/yuutibe-clone/static/js/787.a535fdd6.chunk.js",
+    "index.html": "/yuutibe-clone/index.html",
+    "main.2c38c8e1.css.map": "/yuutibe-clone/static/css/main.2c38c8e1.css.map",
+    "main.880128d3.js.map": "/yuutibe-clone/static/js/main.880128d3.js.map",
+    "787.a535fdd6.chunk.js.map": "/yuutibe-clone/static/js/787.a535fdd6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c38c8e1.css",
+    "static/js/main.880128d3.js"
+  ]
+}
